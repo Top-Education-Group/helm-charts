@@ -1,5 +1,5 @@
 
-# Teg Helm Charts
+# Helm Charts
 This repo collects a set of Helm charts curated by Top Education Group.
 
 # Usage
